@@ -1,5 +1,8 @@
+<div align="center">
+
+    
 <h3 align="center">Iphone 15 Website</h3>
-<div>
+<div >
     <img src="https://img.shields.io/badge/-React_JS-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="react.js" />
     <img src="https://img.shields.io/badge/-Three_JS-black?style=for-the-badge&logoColor=white&logo=threedotjs&color=000000" alt="three.js" />
     <img src="https://img.shields.io/badge/-GSAP-black?style=for-the-badge&logoColor=white&logo=greensock&color=88CE02" alt="greensock" />
@@ -9,6 +12,7 @@
 This is a clone of Apple's iPhone 15 Pro website using React.js and TailwindCSS. It highlights the effective use of GSAP (Greensock Animations) and Three.js for displaying iPhone 15 Pro models in various colors and shapes.
 
 demo : https://iphone-website-blond.vercel.app/
+</div>
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
